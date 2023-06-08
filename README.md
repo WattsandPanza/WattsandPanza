@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WattsandPanza
 - 👀 I’m interested in humans, systems and patterns.
-- 🌱 I’m currently learning Google Cybersecurity
+- 🌱 I’m currently learning from Google's Cybersecurity program.
 - 💞️ I’m looking to collaborate on forensic studies of accounting and security.
 - 📫 How to reach me: WattsandPanza@proton.me
 
